@@ -36,6 +36,10 @@ import java.util.List;
 
 import cn.aigestudio.datepicker.bizs.calendars.DPCManager;
 import cn.aigestudio.datepicker.bizs.decors.DPDecor;
+import cn.aigestudio.datepicker.bizs.themes.DPBaseTheme;
+import cn.aigestudio.datepicker.bizs.themes.DPCNTheme;
+import cn.aigestudio.datepicker.bizs.themes.DPTManager;
+import cn.aigestudio.datepicker.bizs.themes.DPTheme;
 import cn.aigestudio.datepicker.cons.DPMode;
 import cn.aigestudio.datepicker.views.DatePicker;
 import okhttp3.Call;
@@ -45,7 +49,7 @@ import okhttp3.Call;
  */
 
 public class DateCheckActivity extends BaseActivity implements View.OnClickListener {
-
+    DPTheme dpTheme;
     private String TITLE_NAME = "每日打卡";
     private View title_back;
     private TextView titleText;
@@ -59,8 +63,8 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        setDpTheme();
         super.onCreate(savedInstanceState);
-        ;
         setContentView(R.layout.activity_date_check);
         findViewById();
         initView();
@@ -198,5 +202,55 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
             }
         });
 
+    }
+    //设置主题
+    public void setDpTheme(){
+        dpTheme=new DPTheme() {
+            @Override
+            public int colorBG() {
+                return 0xFFFFFFFF;
+            }
+
+            @Override
+            public int colorBGCircle() {
+                return 0x44000000;
+            }
+
+            @Override
+            public int colorTitleBG() {
+                return Color.BLACK;
+            }
+
+            @Override
+            public int colorTitle() {
+                return 0xEEFFFFFF;
+            }
+
+            @Override
+            public int colorToday() {
+                return 0x88F37B7A;
+            }
+
+            @Override
+            public int colorG() {
+                return 0xEE333333;
+            }
+
+            @Override
+            public int colorF() {
+                return 0xEEC08AA4;
+            }
+
+            @Override
+            public int colorWeekend() {
+                return 0xEEF78082;
+            }
+
+            @Override
+            public int colorHoliday() {
+                return 0x80FED6D6;
+            }
+        };
+        DPTManager.getInstance().initCalendar(dpTheme);
     }
 }
