@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\WenWenWen\.android\build-cache\5ae6cef9989def45a4d8fce8b863c7d5ac150fb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\JAVA\android\Fitness\app\build\intermediates\pre-dexed\debug\classes_50d0ac10c37a61bcd399d38e0cbc58fe101a86ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\JAVA\android\Fitness\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_c3fc95b14685a6d45ba23a0bb792a04a570729d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WenWenWen\.android\build-cache\375ee1f8b63ce3c3ea37ca87e69d3ee7d36db566\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\JAVA\android\Fitness\app\build\intermediates\pre-dexed\debug\classes_402ea7937aa07b5eb5255dde96ccb700c0550241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WenWenWen\.android\build-cache\f9137c59cd23719c513c614572b17bb7c2508387\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\JAVA\android\Fitness\app\build\intermediates\pre-dexed\debug\classes_bab4f470fb68861b375466dc394a91e95767bd34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WenWenWen\.android\build-cache\5112717e19ef40332bdcb3e50f281f8682435663\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\JAVA\android\Fitness\app\build\intermediates\pre-dexed\debug\classes_9afc39ef400f0702479a2f976a6e9c930bc4f44f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WenWenWen\.android\build-cache\2a330cca85e4c5e9e56a35658fee2e2892df056a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\JAVA\android\Fitness\app\build\intermediates\pre-dexed\debug\classes_dbea8edbf975887515303e7e3e07b86728e60d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WenWenWen\.android\build-cache\834f94e10127ebd8ec284ed4279ae4e28e9f6161\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\JAVA\android\Fitness\app\build\intermediates\pre-dexed\debug\classes_66a38a8c5e07ebba80371d54ea5a2609d072a2cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WenWenWen\.android\build-cache\50d739fea56760483a123e7bfc1134bf2112fe05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\JAVA\android\Fitness\app\build\intermediates\pre-dexed\debug\classes_d5a68e036aba89874ba45aadd2d37355638ccf81.jar" />
+    </item>
+
+</items>

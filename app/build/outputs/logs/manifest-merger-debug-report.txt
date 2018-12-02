@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:9:5-77:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\WenWenWen\.android\build-cache\1d936b6ff88727c603d5073eb6751ae848f1f623\output\AndroidManifest.xml:9:5-20
+MERGED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:11:5-29:19
+MERGED from [com.android.support:design:25.3.0] C:\Users\WenWenWen\.android\build-cache\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\WenWenWen\.android\build-cache\5112717e19ef40332bdcb3e50f281f8682435663\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\WenWenWen\.android\build-cache\5ae6cef9989def45a4d8fce8b863c7d5ac150fb9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\WenWenWen\.android\build-cache\f9137c59cd23719c513c614572b17bb7c2508387\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\WenWenWen\.android\build-cache\4f4f07303be19352b79b61c5ce434f440149e07c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\WenWenWen\.android\build-cache\aca029c2b5826dcf7f8ec86555c69cce2e6430fe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\WenWenWen\.android\build-cache\834f94e10127ebd8ec284ed4279ae4e28e9f6161\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\WenWenWen\.android\build-cache\a63ad5c607deb1fb37f5bcc81ee70a7e4c793f5f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\WenWenWen\.android\build-cache\375ee1f8b63ce3c3ea37ca87e69d3ee7d36db566\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\WenWenWen\.android\build-cache\2a330cca85e4c5e9e56a35658fee2e2892df056a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\WenWenWen\.android\build-cache\50d739fea56760483a123e7bfc1134bf2112fe05\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:13:9-52
+	android:allowBackup
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:11:9-41
+	android:theme
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.lilei.fitness.view.SplashActivity
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:17:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.lilei.fitness.view.MainActivity
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:25:9-28:52
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:28:13-49
+	android:launchMode
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:26:13-46
+activity#com.lilei.fitness.view.LoginActivity
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:30:9-33:52
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:33:13-49
+	android:launchMode
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:31:13-47
+activity#com.lilei.fitness.view.RegisterActivity
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:35:9-38:52
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:38:13-49
+	android:launchMode
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:36:13-50
+activity#com.lilei.fitness.view.DateCheckActivity
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:39:9-42:52
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:42:13-49
+	android:launchMode
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:41:13-43
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:40:13-51
+activity#com.lilei.fitness.view.ConfigActivity
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:43:9-46:52
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:46:13-49
+	android:launchMode
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:45:13-43
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:44:13-48
+activity#com.lilei.fitness.view.ReleaseNewsActivity
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:47:9-50:52
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:50:13-49
+	android:launchMode
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:49:13-43
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:48:13-53
+activity#com.lilei.fitness.view.HomepageActivity
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:51:9-54:52
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:54:13-49
+	android:launchMode
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:53:13-43
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:52:13-50
+activity#com.lilei.fitness.view.NewsDetailActivity
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:55:9-58:52
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:58:13-49
+	android:launchMode
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:57:13-43
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:56:13-52
+activity#com.lilei.fitness.view.BeforeDateCheckActivity
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:59:9-62:52
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:62:13-49
+	android:launchMode
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:61:13-43
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:60:13-57
+activity#com.lilei.fitness.view.CommentsListActivity
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:63:9-66:52
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:66:13-49
+	android:launchMode
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:65:13-43
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:64:13-54
+activity#com.lilei.fitness.view.FavorsListActivity
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:67:9-70:52
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:70:13-49
+	android:launchMode
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:69:13-43
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:68:13-52
+activity#com.lilei.fitness.view.VideoPlayer
+ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:71:9-74:53
+	android:screenOrientation
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:74:13-50
+	android:launchMode
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:73:13-43
+	android:name
+		ADDED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml:72:13-45
+uses-sdk
+INJECTED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\WenWenWen\.android\build-cache\1d936b6ff88727c603d5073eb6751ae848f1f623\output\AndroidManifest.xml:5:5-7:41
+MERGED from [cn.aigestudio.datepicker:DatePicker:2.2.0] C:\Users\WenWenWen\.android\build-cache\63edf6f1b2895f8412929af3c033bc59c3323c3b\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\WenWenWen\.android\build-cache\328cb0cb79acf182820f612536c24f9e59e15e09\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.0] C:\Users\WenWenWen\.android\build-cache\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\WenWenWen\.android\build-cache\5112717e19ef40332bdcb3e50f281f8682435663\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\WenWenWen\.android\build-cache\5ae6cef9989def45a4d8fce8b863c7d5ac150fb9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\WenWenWen\.android\build-cache\f9137c59cd23719c513c614572b17bb7c2508387\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] C:\Users\WenWenWen\.android\build-cache\4f4f07303be19352b79b61c5ce434f440149e07c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\WenWenWen\.android\build-cache\aca029c2b5826dcf7f8ec86555c69cce2e6430fe\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\WenWenWen\.android\build-cache\834f94e10127ebd8ec284ed4279ae4e28e9f6161\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\WenWenWen\.android\build-cache\a63ad5c607deb1fb37f5bcc81ee70a7e4c793f5f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\WenWenWen\.android\build-cache\375ee1f8b63ce3c3ea37ca87e69d3ee7d36db566\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\WenWenWen\.android\build-cache\b4b6d24740171423adc056f0010097e6be9163d0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\WenWenWen\.android\build-cache\2a330cca85e4c5e9e56a35658fee2e2892df056a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\WenWenWen\.android\build-cache\50d739fea56760483a123e7bfc1134bf2112fe05\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] C:\Users\WenWenWen\.android\build-cache\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JAVA\Breaking Through\BreakingThrough\app\src\main\AndroidManifest.xml
+provider#android.support.v4.content.FileProvider
+ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:14:13-60
+	android:grantUriPermissions
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:18:17-67
+activity#com.sangcomz.fishbun.ui.album.AlbumActivity
+ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:22:9-25:72
+	android:label
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:24:13-42
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:23:13-71
+activity#com.sangcomz.fishbun.ui.picker.PickerActivity
+ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:26:9-28:72
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:28:13-69
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\WenWenWen\.android\build-cache\f86bfc5f24e3f7f81c395e8816526bf31c383229\output\AndroidManifest.xml:27:13-73
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] C:\Users\WenWenWen\.android\build-cache\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\WenWenWen\.android\build-cache\5112717e19ef40332bdcb3e50f281f8682435663\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\WenWenWen\.android\build-cache\5ae6cef9989def45a4d8fce8b863c7d5ac150fb9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\WenWenWen\.android\build-cache\f9137c59cd23719c513c614572b17bb7c2508387\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\WenWenWen\.android\build-cache\4f4f07303be19352b79b61c5ce434f440149e07c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\WenWenWen\.android\build-cache\aca029c2b5826dcf7f8ec86555c69cce2e6430fe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\WenWenWen\.android\build-cache\834f94e10127ebd8ec284ed4279ae4e28e9f6161\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\WenWenWen\.android\build-cache\a63ad5c607deb1fb37f5bcc81ee70a7e4c793f5f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\WenWenWen\.android\build-cache\375ee1f8b63ce3c3ea37ca87e69d3ee7d36db566\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\WenWenWen\.android\build-cache\b4b6d24740171423adc056f0010097e6be9163d0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\WenWenWen\.android\build-cache\2a330cca85e4c5e9e56a35658fee2e2892df056a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\WenWenWen\.android\build-cache\50d739fea56760483a123e7bfc1134bf2112fe05\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] C:\Users\WenWenWen\.android\build-cache\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] C:\Users\WenWenWen\.android\build-cache\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\output\AndroidManifest.xml:26:9-47
