@@ -42,24 +42,24 @@ public class SplashActivity extends BaseActivity implements View.OnClickListener
             case 1:
                 bg.setImageResource(R.drawable.start2);
                 break;
-            case 2:
-                bg.setImageResource(R.drawable.start3);
-                break;
-            case 3:
-                bg.setImageResource(R.drawable.start4);
-                break;
-            case 4:
-                bg.setImageResource(R.drawable.start5);
-                break;
-            case 5:
-                bg.setImageResource(R.drawable.start6);
-                break;
-            case 6:
-                bg.setImageResource(R.drawable.start7);
-                break;
-            case 7:
-                bg.setImageResource(R.drawable.start8);
-                break;
+//            case 2:
+//                bg.setImageResource(R.drawable.start3);
+//                break;
+//            case 3:
+//                bg.setImageResource(R.drawable.start4);
+//                break;
+//            case 4:
+//                bg.setImageResource(R.drawable.start5);
+//                break;
+//            case 5:
+//                bg.setImageResource(R.drawable.start6);
+//                break;
+//            case 6:
+//                bg.setImageResource(R.drawable.start7);
+//                break;
+//            case 7:
+//                bg.setImageResource(R.drawable.start8);
+//                break;
         }
     }
 

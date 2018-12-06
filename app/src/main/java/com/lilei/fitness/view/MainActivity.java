@@ -175,7 +175,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
 
         if (keyCode == KeyEvent.KEYCODE_BACK) {
             if ((System.currentTimeMillis() - mExitTime) > 800) {
-                DisplayToast("再按一次退出肌撕裂者");
+                DisplayToast("再按一次退出Breaking Through");
                 mExitTime = System.currentTimeMillis();
                 return true;
             } else {

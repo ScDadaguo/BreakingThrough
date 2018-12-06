@@ -33,6 +33,8 @@
 
 
     <color name="pdn_gray">#ff999999</color>
+    <color name="pdn_yellow">#f7cf2e</color>
+
     <color name="title_bg_color">#423c46</color>
     <color name="title_bg">@color/title_bg_color</color>
     <color name="bottom_bg">#ededed</color>

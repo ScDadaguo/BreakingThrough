@@ -44,6 +44,8 @@ import cn.aigestudio.datepicker.cons.DPMode;
 import cn.aigestudio.datepicker.views.DatePicker;
 import okhttp3.Call;
 
+import static com.lilei.fitness.utils.DateUtils.getCurrentDatetime;
+
 /**
  * Created by djzhao on 17/05/01.
  */
@@ -51,7 +53,7 @@ import okhttp3.Call;
 public class DateCheckActivity extends BaseActivity implements View.OnClickListener {
     DPTheme dpTheme;
     private String TITLE_NAME = "每日打卡";
-    private View title_back;
+//    private View title_back;
     private TextView titleText;
 
     private Context mContext;
@@ -93,7 +95,7 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
 
     @Override
     protected void findViewById() {
-        this.title_back = $(R.id.title_back);
+//        this.title_back = $(R.id.title_back);
         this.titleText = $(R.id.titleText);
 
         picker = (DatePicker) findViewById(R.id.date_date_picker);
@@ -103,8 +105,8 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
     @Override
     protected void initView() {
         mContext = this;
-        this.title_back.setOnClickListener(this);
-        this.titleText.setText(TITLE_NAME);
+//        this.title_back.setOnClickListener(this);
+//        this.titleText.setText(TITLE_NAME);
         btnPick.setOnClickListener(this);
         uiFlusHandler = new MyDialogHandler(mContext, "刷新数据...");
     }
@@ -112,9 +114,9 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            case R.id.title_back:
-                this.finish();
-                break;
+//            case R.id.title_back:
+//                this.finish();
+//                break;
             case R.id.date_btn_check:
                 todayCheck();
                 break;
@@ -145,6 +147,26 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
             switch (id) {
                 case 1:
                     if (response.contains("success")) {
+//                        String data = getCurrentDatetime().substring(0, 10);
+//
+//                        String[] split = data.split("-");
+//                        data = split[0] + "-" + removeHeadingZero(split[1]) + "-" + removeHeadingZero(split[2]);
+//                        Constants.DAILYCHECKEDLIST.add(data);
+//
+//                        Constants.DAILYCHECKEDLIST.add(data);
+//                        DPCManager.getInstance().setDecorTR(Constants.DAILYCHECKEDLIST);
+//
+//                        picker.setDPDecor(new DPDecor() {
+//                            @Override
+//                            public void drawDecorTR(Canvas canvas, Rect rect, Paint paint, String data) {
+//                                super.drawDecorTR(canvas, rect, paint, data);
+//                                paint.setColor(Color.RED);
+//                                canvas.drawCircle(rect.centerX(), rect.centerY(), rect.width() / 2, paint);
+//                            }
+//
+//                        });
+
+
                         DisplayToast("今日打卡成功");
                     } else {
                         DisplayToast(response);
@@ -176,16 +198,11 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
     public void echoChecked() {
 
 
-
         DPCManager.getInstance().setDecorTR(Constants.DAILYCHECKEDLIST);
-//        RelativeLayout rlTitle = new RelativeLayout(this);
-//        rlTitle.setBackgroundColor(Color.GREEN);
 
         Calendar today = Calendar.getInstance();
 
         picker.setDate(today.get(Calendar.YEAR), today.get(Calendar.MONTH) + 1);
-//        picker.setBackgroundColor(Color.GREEN);
-
 
         picker.setFestivalDisplay(false);
 
@@ -197,15 +214,25 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
             @Override
             public void drawDecorTR(Canvas canvas, Rect rect, Paint paint, String data) {
                 super.drawDecorTR(canvas, rect, paint, data);
-                paint.setColor(Color.RED);
+                paint.setColor(0xFFF7CF2E);
                 canvas.drawCircle(rect.centerX(), rect.centerY(), rect.width() / 2, paint);
             }
         });
+//        Canvas canvas=new Canvas();
+//        Paint p = new Paint();
+//        p.setColor(Color.RED);// 设置红色
+//
+//        canvas.drawText("画圆：", 10, 20, p);// 画文本
+//        canvas.drawCircle(60, 20, 10, p);// 小圆
+//        p.setAntiAlias(true);// 设置画笔的锯齿效果。 true是去除，大家一看效果就明白了
+//        canvas.drawCircle(120, 20, 20, p);
+
 
     }
+
     //设置主题
-    public void setDpTheme(){
-        dpTheme=new DPTheme() {
+    public void setDpTheme() {
+        dpTheme = new DPTheme() {
             @Override
             public int colorBG() {
                 return 0xFFFFFFFF;
@@ -213,12 +240,12 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
 
             @Override
             public int colorBGCircle() {
-                return 0x44000000;
+                return Color.YELLOW;
             }
 
             @Override
             public int colorTitleBG() {
-                return Color.BLACK;
+                return 0xFF423c46;
             }
 
             @Override
@@ -228,7 +255,7 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
 
             @Override
             public int colorToday() {
-                return 0x88F37B7A;
+                return 0x5FF7CF2E;
             }
 
             @Override
@@ -243,7 +270,7 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
 
             @Override
             public int colorWeekend() {
-                return 0xEEF78082;
+                return 0xFF716D73;
             }
 
             @Override
@@ -252,5 +279,13 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
             }
         };
         DPTManager.getInstance().initCalendar(dpTheme);
+    }
+
+    public String removeHeadingZero(String str) {
+        if (str.startsWith("0")) {
+            return str.substring(1);
+        } else {
+            return str;
+        }
     }
 }

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Dec 02 12:00:47 CST 2018
+#Wed Dec 05 17:35:47 CST 2018
 20.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 340.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_secondary_text_material_dark.xml
@@ -209,7 +209,7 @@
 314.set=ANDROID_RESOURCE
 135.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 306.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
-332.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_spinner_textfield_background_material.xml
+332.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
 45.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 168.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 237.set=ANDROID_RESOURCE
@@ -241,7 +241,7 @@
 146.set=ANDROID_RESOURCE
 285.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 132.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\level_base.png
-303.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png
+303.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png
 16.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 165.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_clear_material.xml
 148.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -252,7 +252,7 @@
 75.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_activity_chooser_view.xml
 245.set=ANDROID_RESOURCE
 123.set=ANDROID_RESOURCE
-292.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
+292.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\design_password_eye.xml
 275.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 376.set=ANDROID_RESOURCE
 122.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\bg_edit_text_manage.xml
@@ -323,7 +323,7 @@
 392.set=ANDROID_RESOURCE
 36.set=ANDROID_RESOURCE
 50.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
-370.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png
+370.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png
 200.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png
 83.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 386.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -422,7 +422,7 @@
 234.set=ANDROID_RESOURCE
 127.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 21.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png
-144.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
+144.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png
 112.set=ANDROID_RESOURCE
 54.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_material_dark.xml
 357.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\calendar.png
@@ -454,7 +454,7 @@
 277.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 396.set=ANDROID_RESOURCE
 124.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\design_layout_snackbar.xml
-157.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\cart_edit_btn_selector.xml
+157.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png
 328.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_toolbar.xml
 242.set=ANDROID_RESOURCE
 67.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ratingbar_indicator_material.xml
@@ -462,11 +462,11 @@
 191.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 225.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 373.set=ANDROID_RESOURCE
-251.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png
+251.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_fade_in.xml
 17.set=ANDROID_RESOURCE
 284.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png
 296.set=ANDROID_RESOURCE
-15.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon_location_checked.png
+15.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png
 147.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\navigation_empty_icon.xml
 318.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_btn_borderless_material.xml
 181.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -666,7 +666,7 @@
 93.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 217.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 293.set=ANDROID_RESOURCE
-276.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\loading_11.png
+276.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
 68.set=ANDROID_RESOURCE
 319.set=ANDROID_RESOURCE
 311.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -714,7 +714,7 @@
 304.set=ANDROID_RESOURCE
 134.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 305.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
-331.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
+331.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_spinner_textfield_background_material.xml
 44.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 167.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 61.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\avd_show_password_2.xml
@@ -923,7 +923,7 @@
 224.set=ANDROID_RESOURCE
 126.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 20.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\start8.png
-143.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png
+143.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
 102.set=ANDROID_RESOURCE
 159.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 53.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png
@@ -942,7 +942,7 @@
 100.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\header_item.xml
 286.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 133.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_custom_big.xml
-304.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png
+304.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png
 166.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\ic_launcher.png
 149.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 43.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\design_layout_snackbar_include.xml
@@ -954,11 +954,11 @@
 133.set=ANDROID_RESOURCE
 178.set=ANDROID_RESOURCE
 260.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\default_image.png
-293.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\design_password_eye.xml
+293.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
 276.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 386.set=ANDROID_RESOURCE
 123.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_config.xml
-156.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png
+156.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\cart_edit_btn_selector.xml
 327.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\select_dialog_multichoice_material.xml
 232.set=ANDROID_RESOURCE
 189.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\pd_add2car_bg_p_end.9.png
@@ -972,7 +972,7 @@
 283.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\bottom_navigation.xml
 286.set=ANDROID_RESOURCE
 164.set=ANDROID_RESOURCE
-14.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png
+14.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon_location_checked.png
 317.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon_edit_commnet.png
 179.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png
 180.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1016,7 +1016,7 @@
 141.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 46.set=ANDROID_RESOURCE
 51.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
-371.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png
+371.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png
 354.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 201.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_news_detail.xml
 84.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1147,7 +1147,7 @@ count=398
 175.set=ANDROID_RESOURCE
 226.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 383.set=ANDROID_RESOURCE
-252.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_fade_in.xml
+252.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png
 27.set=ANDROID_RESOURCE
 285.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\fitness.png
 16.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_hint_foreground_material_light.xml
@@ -1162,7 +1162,7 @@ count=398
 283.set=ANDROID_RESOURCE
 161.set=ANDROID_RESOURCE
 249.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
-275.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
+275.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\loading_11.png
 309.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_vector_test.xml
 39.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\notification_template_big_media_narrow.xml
 58.set=ANDROID_RESOURCE

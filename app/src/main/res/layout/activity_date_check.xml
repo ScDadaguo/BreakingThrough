@@ -5,7 +5,7 @@
     android:orientation="vertical"
     tools:context="com.lilei.fitness.view.DateCheckActivity">
 
-    <include layout="@layout/title_custom" />
+    <!--<include layout="@layout/title_custom" />-->
 
     <cn.aigestudio.datepicker.views.DatePicker
 
@@ -24,7 +24,8 @@
         android:background="@drawable/btn_red_bg"
         android:textColor="@color/white"
         android:textSize="@dimen/login_comfirm_button_text_size"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="120dp"
         android:text="@string/date_check_text" />
 
 </LinearLayout>
+    <!--android:background="@drawable/btn_red_bg"-->

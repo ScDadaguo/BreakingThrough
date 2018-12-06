@@ -21,14 +21,14 @@
                 android:scaleType="centerCrop"
                 android:src="@drawable/topic_top_bg" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="20dp"
-                android:layout_marginTop="100dp"
-                android:text="@string/found_top_info"
-                android:textColor="@color/white"
-                android:textSize="25sp" />
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="20dp"-->
+                <!--android:layout_marginTop="100dp"-->
+                <!--android:text="@string/found_top_info"-->
+                <!--android:textColor="@color/white"-->
+                <!--android:textSize="25sp" />-->
         </FrameLayout>
 
         <TextView
@@ -50,7 +50,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingBottom="1dp"
-            android:paddingTop="2dp">
+            android:paddingTop="2dp"
+            android:divider="#00000000"
+            android:dividerHeight="15dp">
 
         </ListView>
     </LinearLayout>
