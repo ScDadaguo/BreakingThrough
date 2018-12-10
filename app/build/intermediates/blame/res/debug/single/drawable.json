@@ -20,12 +20,12 @@
         "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\topic_bg.png"
     },
     {
-        "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
         "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_6.png",
@@ -84,12 +84,12 @@
         "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\pd_add2car_bg_n.9.png"
     },
     {
-        "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
         "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pd_btn_bg_d.9.png",
         "source": "C:\\androidproject\\Fitness\\app\\src\\main\\res\\drawable\\pd_btn_bg_d.9.png"
+    },
+    {
+        "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_edit_commnet.png",

@@ -37,7 +37,7 @@ public class SplashActivity extends BaseActivity implements View.OnClickListener
     private void changeBackgroundImage() {
         switch ((int)(System.currentTimeMillis() % 8)) {
             case 0:
-                bg.setImageResource(R.drawable.start1);
+                bg.setImageResource(R.drawable.start2);
                 break;
             case 1:
                 bg.setImageResource(R.drawable.start2);

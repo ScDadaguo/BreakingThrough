@@ -1,4 +1,4 @@
-#Wed Dec 05 17:35:46 CST 2018
+#Mon Dec 10 10:19:52 CST 2018
 base.0=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

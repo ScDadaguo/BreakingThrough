@@ -75,7 +75,7 @@ public class VideoPlayer extends BaseActivity {
         switch (tag) {
             case 1:
                 duration = "8";
-                uri += R.raw.movie;
+                uri += R.raw.base;
                 break;
             case 2:
                 duration = "9";
@@ -175,7 +175,7 @@ public class VideoPlayer extends BaseActivity {
                 videoView.pause();
                 currentPosition = videoView.getCurrentPosition();
                 AlertDialog.Builder builder = new AlertDialog.Builder(VideoPlayer.this);
-                builder.setTitle("猛男")
+                builder.setTitle("朋友")
                         .setMessage("你确定要放弃锻炼吗？")
                         .setPositiveButton("择日再战", new DialogInterface.OnClickListener() {
                             @Override

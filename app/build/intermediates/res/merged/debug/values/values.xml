@@ -118,7 +118,7 @@
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
-    <color name="before_date_check">#EFBE72</color>
+    <color name="before_date_check">#F7CF2E</color>
     <color name="beige">#fff5f5dc</color>
     <color name="bisque">#ffffe4c4</color>
     <color name="blanchedalmond">#ffffebcd</color>

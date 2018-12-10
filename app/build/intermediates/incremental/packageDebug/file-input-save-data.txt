@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Dec 05 17:35:47 CST 2018
+#Mon Dec 10 10:19:54 CST 2018
 20.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.base=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_
 340.file=D\:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_secondary_text_material_dark.xml
