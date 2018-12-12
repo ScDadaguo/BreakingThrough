@@ -262,24 +262,5 @@ public class NewsDetailActivity extends BaseActivity implements View.OnClickList
         }
     }
 
-//    private void getNewsImage(String imageName) {
-//        String url = Constants.BASE_URL + "Download?method=getNewsImage";
-//
-//        OkHttpUtils
-//                .get()//
-//                .url(url)//
-//                .addParams("imageName", imageName)
-//                .build()//
-//                .execute(new BitmapCallback() {
-//                    @Override
-//                    public void onError(Call call, Exception e, int i) {
-//                        DisplayToast("无法获取图片");
-//                    }
-//
-//                    @Override
-//                    public void onResponse(Bitmap bitmap, int i) {
-//                        imageIV.setImageBitmap(bitmap);
-//                    }
-//                });
-//    }
+
 }
