@@ -94,6 +94,7 @@ public class VideoPlayer extends BaseActivity {
         mediaController = new MediaController(this);
         videoView.setMediaController(mediaController);
         mediaController.setMediaPlayer(videoView);
+
         videoView.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
             @Override
             public void onCompletion(MediaPlayer mp) {
@@ -121,13 +122,13 @@ public class VideoPlayer extends BaseActivity {
         String message = "";
         switch (tag) {
             case 1:
-                message = "“肌撕裂者-初级”";
+                message = "“BT-初级”";
                 break;
             case 2:
-                message = "“肌撕裂者-中级”";
+                message = "“BT-中级”";
                 break;
             case 3:
-                message = "“肌撕裂者-极致”";
+                message = "“BT-极致”";
                 break;
         }
         SystemClock.sleep(1000);
@@ -156,9 +157,9 @@ public class VideoPlayer extends BaseActivity {
                     }
                     showInfo();
                     break;
-                default:
-                    DisplayToast("what?");
-                    break;
+//                default:
+//                    DisplayToast("what?");
+//                    break;
             }
         }
 

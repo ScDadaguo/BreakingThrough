@@ -50,7 +50,7 @@ public class LoginActivity extends BaseActivity implements OnClickListener {
         String password = et_password.getText().toString().trim();
         //d.判断用户名密码是否为空，不为空请求服务器（省略，默认请求成功）
         if (TextUtils.isEmpty(username) || TextUtils.isEmpty(password)) {
-            Toast.makeText(mContext, "不可留空", Toast.LENGTH_SHORT).show();
+                Toast.makeText(mContext, "不可留空", Toast.LENGTH_SHORT).show();
             return;
         }
         // 服务端验证
