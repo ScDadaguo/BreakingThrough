@@ -147,7 +147,9 @@ public class NewsDetailActivity extends BaseActivity implements View.OnClickList
                 break;
         }
     }
-
+//    visible：显示控件，控件可点击（若控件有点击事件）
+//    invisible：不显示控件，但保留控件所占有的空间，控件不可点击（若控件有点击事件）
+//    gone：隐藏控件，即不保留控件所占有的空间，控件不可点击（若控件有点击事件）
     private void showCommemtPane() {
         isShowCommentPane = !isShowCommentPane;
         if (isShowCommentPane) {

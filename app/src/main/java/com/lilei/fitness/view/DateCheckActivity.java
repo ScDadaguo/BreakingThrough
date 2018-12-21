@@ -147,24 +147,7 @@ public class DateCheckActivity extends BaseActivity implements View.OnClickListe
             switch (id) {
                 case 1:
                     if (response.contains("success")) {
-//                        String data = getCurrentDatetime().substring(0, 10);
-//
-//                        String[] split = data.split("-");
-//                        data = split[0] + "-" + removeHeadingZero(split[1]) + "-" + removeHeadingZero(split[2]);
-//                        Constants.DAILYCHECKEDLIST.add(data);
-//
-//                        Constants.DAILYCHECKEDLIST.add(data);
-//                        DPCManager.getInstance().setDecorTR(Constants.DAILYCHECKEDLIST);
-//
-//                        picker.setDPDecor(new DPDecor() {
-//                            @Override
-//                            public void drawDecorTR(Canvas canvas, Rect rect, Paint paint, String data) {
-//                                super.drawDecorTR(canvas, rect, paint, data);
-//                                paint.setColor(Color.RED);
-//                                canvas.drawCircle(rect.centerX(), rect.centerY(), rect.width() / 2, paint);
-//                            }
-//
-//                        });
+
 
 
                         DisplayToast("今日打卡成功");

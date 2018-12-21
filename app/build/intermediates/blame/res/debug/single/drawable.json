@@ -16,16 +16,12 @@
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topic_bg.png",
-        "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\topic_bg.png"
+        "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
         "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
-        "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
         "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_6.png",
@@ -80,16 +76,12 @@
         "source": "D:\\JAVA\\BT\\Fitness\\app\\src\\main\\res\\drawable\\icon_found_pressed.png"
     },
     {
-        "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pd_add2car_bg_n.9.png",
-        "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\pd_add2car_bg_n.9.png"
+        "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pd_btn_bg_d.9.png",
+        "source": "C:\\androidproject\\Fitness\\app\\src\\main\\res\\drawable\\pd_btn_bg_d.9.png"
     },
     {
         "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pd_btn_bg_d.9.png",
-        "source": "C:\\androidproject\\Fitness\\app\\src\\main\\res\\drawable\\pd_btn_bg_d.9.png"
     },
     {
         "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_edit_commnet.png",
@@ -298,10 +290,6 @@
     {
         "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\Ekko\\.android\\build-cache\\0b652e3f28043a413c91706c5aa6dd3cb82021d8\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start3.png",
-        "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\start3.png"
     },
     {
         "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_11.png",
@@ -538,10 +526,6 @@
     {
         "merged": "D:\\JAVA\\android\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\d76874a984d0a2de86bb187615c6cb124e6e5e4b\\output\\res\\drawable\\tooltip_frame_dark.xml"
-    },
-    {
-        "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start7.png",
-        "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\start7.png"
     },
     {
         "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
@@ -782,10 +766,6 @@
     {
         "merged": "D:\\JAVA\\BT\\Breaking-Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fitness_round_transparent.png",
-        "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\fitness_round_transparent.png"
     },
     {
         "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_back_selector.xml",
@@ -1384,10 +1364,6 @@
         "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\icon_found_pressed.png"
     },
     {
-        "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start5.png",
-        "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\start5.png"
-    },
-    {
         "merged": "D:\\JAVA\\android\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\d76874a984d0a2de86bb187615c6cb124e6e5e4b\\output\\res\\drawable\\tooltip_frame_light.xml"
     },
@@ -1498,10 +1474,6 @@
     {
         "merged": "D:\\JAVA\\BT\\Breaking-Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pd_add2car_bg_p.9.png",
-        "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\pd_add2car_bg_p.9.png"
     },
     {
         "merged": "D:\\JAVA\\BT\\Breaking-Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fitness_round.png",
@@ -2080,10 +2052,6 @@
         "source": "D:\\JAVA\\android\\Fitness\\app\\src\\main\\res\\drawable\\promotion_right_button_background_selector.xml"
     },
     {
-        "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start8.png",
-        "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\start8.png"
-    },
-    {
         "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
@@ -2404,10 +2372,6 @@
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start4.png",
-        "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\start4.png"
-    },
-    {
         "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start4.png",
         "source": "D:\\JAVA\\BT\\Fitness\\app\\src\\main\\res\\drawable\\start4.png"
     },
@@ -2550,10 +2514,6 @@
     {
         "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_4.png",
         "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\loading_4.png"
-    },
-    {
-        "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start6.png",
-        "source": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\src\\main\\res\\drawable\\start6.png"
     },
     {
         "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_edit_commnet.png",

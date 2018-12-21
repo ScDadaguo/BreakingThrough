@@ -16,7 +16,7 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.lilei.fitness.image.ImageLoaderConfig;
+
 import com.lilei.fitness.utils.AppManager;
 import com.lilei.fitness.utils.Constants;
 import com.lilei.fitness.utils.MyDialogHandler;
@@ -24,9 +24,9 @@ import com.nostra13.universalimageloader.core.ImageLoader;
 
 public abstract class BaseActivity extends Activity {
 
- //服务就不开了
-	protected InputMethodManager imm;
-//	private TelephonyManager tManager;
+// //服务就不开了
+//	protected InputMethodManager imm;
+////	private TelephonyManager tManager;
 	
 	protected final int SHOW_LOADING_DIALOG = 0x0102;
 	protected final int DISMISS_LOADING_DIALOG = 0x0103;
@@ -46,10 +46,10 @@ public abstract class BaseActivity extends Activity {
 	protected void onCreate(Bundle paramBundle) {
 		super.onCreate(paramBundle);
 		AppManager.getInstance().addActivity(this);
-		if (!ImageLoader.getInstance().isInited())
-			ImageLoaderConfig.initImageLoader(this, Constants.BASE_IMAGE_CACHE);
+//		if (!ImageLoader.getInstance().isInited())
+//			ImageLoaderConfig.initImageLoader(this, Constants.BASE_IMAGE_CACHE);
 //		this.tManager = ((TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE));
-		this.imm = ((InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE));
+//		this.imm = ((InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE));
 		
 	}
 	

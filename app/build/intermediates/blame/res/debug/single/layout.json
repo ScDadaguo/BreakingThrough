@@ -12,12 +12,12 @@
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_item.xml",
-        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\f86bfc5f24e3f7f81c395e8816526bf31c383229\\output\\res\\layout\\header_item.xml"
-    },
-    {
         "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_item.xml",
+        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\f86bfc5f24e3f7f81c395e8816526bf31c383229\\output\\res\\layout\\header_item.xml"
     },
     {
         "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
@@ -192,28 +192,28 @@
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\\output\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\Ekko\\.android\\build-cache\\5ada7a9dea9985153b76a785bbc8876b71ec6096\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Ekko\\.android\\build-cache\\5ada7a9dea9985153b76a785bbc8876b71ec6096\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thumb_item.xml",
@@ -236,24 +236,24 @@
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\f86bfc5f24e3f7f81c395e8816526bf31c383229\\output\\res\\layout\\activity_photo_picker.xml"
     },
     {
-        "merged": "D:\\JAVA\\android\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
         "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\JAVA\\android\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thumb_item.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\f86bfc5f24e3f7f81c395e8816526bf31c383229\\output\\res\\layout\\thumb_item.xml"
     },
     {
-        "merged": "D:\\JAVA\\BT\\Breaking-Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
         "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_normal_list.xml",
         "source": "D:\\JAVA\\BT\\Fitness\\app\\src\\main\\res\\layout\\activity_normal_list.xml"
+    },
+    {
+        "merged": "D:\\JAVA\\BT\\Breaking-Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_date_check.xml",
@@ -288,12 +288,12 @@
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_train.xml",
-        "source": "D:\\JAVA\\BT\\Fitness\\app\\src\\main\\res\\layout\\fragment_train.xml"
-    },
-    {
         "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_train.xml",
+        "source": "D:\\JAVA\\BT\\Fitness\\app\\src\\main\\res\\layout\\fragment_train.xml"
     },
     {
         "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
@@ -336,12 +336,12 @@
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "D:\\JAVA\\BT\\Breaking-Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\\output\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
         "merged": "D:\\JAVA\\BT\\Breaking-Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\JAVA\\BT\\Breaking-Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "D:\\JAVA\\android\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_found_news.xml",
@@ -400,28 +400,28 @@
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thumb_item.xml",
-        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\f86bfc5f24e3f7f81c395e8816526bf31c383229\\output\\res\\layout\\thumb_item.xml"
+        "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "D:\\JAVA\\BT\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_index.xml",
         "source": "D:\\JAVA\\BT\\Fitness\\app\\src\\main\\res\\layout\\title_index.xml"
     },
     {
-        "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thumb_item.xml",
+        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\f86bfc5f24e3f7f81c395e8816526bf31c383229\\output\\res\\layout\\thumb_item.xml"
     },
     {
         "merged": "D:\\JAVA\\Breaking Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "D:\\JAVA\\BT\\Breaking-Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\\output\\res\\layout\\design_bottom_navigation_item.xml"
-    },
-    {
         "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\Users\\Ekko\\.android\\build-cache\\0b652e3f28043a413c91706c5aa6dd3cb82021d8\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\JAVA\\BT\\Breaking-Through\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\67c9f71b6e3e6a5a4694f0ebd25f7e123149dd49\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
@@ -448,12 +448,12 @@
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\Ekko\\.android\\build-cache\\55ce1d50d0924412ebb979b338277020f5c54c99\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\WenWenWen\\.android\\build-cache\\5112717e19ef40332bdcb3e50f281f8682435663\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\androidproject\\Fitness\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Ekko\\.android\\build-cache\\55ce1d50d0924412ebb979b338277020f5c54c99\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "D:\\JAVA\\Breaking Through\\BreakingThrough\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_found.xml",
